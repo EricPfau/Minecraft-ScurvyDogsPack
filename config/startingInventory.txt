@@ -1,0 +1,4 @@
+minecraft:wooden_pickaxe,1,0
+minecraft:wooden_sword,1,0
+Backpack:backpack,1,0
+SpiceOfLife:lunchbag,1,0,{UUID:"c971be32-9a9e-4aa1-b238-b58f22991392",Inventory:{Items:[0:{Slot:0b,id:364s,Count:16b,Damage:0s},1:{Slot:1b,id:360s,Count:16b,Damage:0s},2:{Slot:2b,id:357s,Count:16b,Damage:0s}]},Open:0b}
