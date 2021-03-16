@@ -1,0 +1,185 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "custommainmenu:textures/gui/minecraft.png",
+            "posX" : -138,
+            "posY" : 60,
+            "width" : 512,
+            "height" : 512,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+			"text" : "menu.singleplayer",
+            "posX" : -100,
+            "posY" : 48,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+			"text" : "menu.multiplayer",
+            "posX" : -100,
+            "posY" : 72,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {	
+            "text" : "Mods",
+            "posX" : -100,
+            "posY" : 98,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -100,
+            "posY" : 148,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 2,
+            "posY" : 148,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : -124,
+            "posY" : 148,
+            "width" : 20,
+            "height" : 20,
+			"action" :
+			{
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+		"Discord":
+        {
+            "text" : "Discord",
+			"hoverText" : "The Scurvy Dogs!",
+            "posX" : -100,
+            "posY" : 124,
+            "width" : 98,
+            "height" : 20,
+			"action" :
+			{
+                "type" : "openLink",
+				"link" : "https://discord.gg/sXgZn5B"
+            }	
+        
+        },
+		"Patreon":
+        {
+            "text" : "Patreon",
+			"hoverText" : "Support Us",
+            "posX" : 2,
+            "posY" : 124,
+            "width" : 98,
+            "height" : 20,
+			"action" :
+			{
+                "type" : "openLink",
+				"link" : "https://www.patreon.com/TheScurvyDogs"
+            }	
+        
+        }
+    },
+    
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "Menu made by Void",
+            "posX" : -100,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+		
+        "example":
+        {
+            "text" : "The ScurvyDogs Pack V1.0",
+            "posX" : 2,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+		
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 110,
+            "posY" : 90,
+            "color" : -256,
+            "alignment" : "top_center"
+        },
+       
+        "background":
+        {
+            "image" : "",
+            "slideshow":
+            {
+                "images" : [
+					"mainmenu:1.png",
+					"mainmenu:2.png",
+					"mainmenu:3.png",
+					"mainmenu:4.png",
+					"mainmenu:5.png",
+					"mainmenu:6.png",
+					"mainmenu:7.png",
+					"mainmenu:8.png",
+					"mainmenu:9.png"
+								],
+				"displayDuration" : 100,
+				"fadeDuration" : 40,
+				"shuffle" : true
+            }
+        }
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"food": {
+		"oredict": [
+			"example"
+		],
+		"items": [
+			"arcticmobs:palesoup",
+			"EnderIO:itemEnderFood",
+			"harvestcraft:baconcheeseburgerItem",
+			"harvestcraft:beanburritoItem",
+			"harvestcraft:carrotsoupItem",
+			"harvestcraft:cheeseburgerItem",
+			"harvestcraft:cheeseItem",
+			"harvestcraft:chickenparmasanItem",
+			"harvestcraft:cornbreadItem",
+			"harvestcraft:creamedcornItem",
+			"harvestcraft:cucumbersoupItem",
+			"harvestcraft:curryItem",
+			"harvestcraft:delightedmealItem",
+			"harvestcraft:deluxecheeseburgerItem",
+			"harvestcraft:epicbaconItem",
+			"harvestcraft:fishtacoItem",
+			"harvestcraft:grilledcheeseItem",
+			"harvestcraft:hotchocolateItem",
+			"harvestcraft:loadedbakedpotatoItem",
+			"harvestcraft:mushroomrisottoItem",
+			"harvestcraft:nachoesItem",
+			"harvestcraft:onionsoupItem",
+			"harvestcraft:pamcheeseCake",
+			"harvestcraft:pamcherrycheeseCake",
+			"harvestcraft:pamholidayCake",
+			"harvestcraft:pampavlovaCake",
+			"harvestcraft:pampumpkincheeseCake",
+			"harvestcraft:pamredvelvetCake",
+			"harvestcraft:pizzaItem",
+			"harvestcraft:pumpkinsoupItem",
+			"harvestcraft:rainbowcurryItem",
+			"harvestcraft:stuffedmushroomItem",
+			"harvestcraft:supremepizzaItem",
+			"harvestcraft:tacoItem",
+			"minecraft:cake"
+		]
+	},
+	"name": "Dairy",
+	"color": "white"
+}

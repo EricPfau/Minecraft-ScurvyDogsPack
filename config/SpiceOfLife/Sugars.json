@@ -1,0 +1,52 @@
+{
+	"food": {
+		"oredict": [
+			"foodAmbrosia",
+			"listAlljelly",
+			"listAllsugar"
+		],
+		"items": [
+			"Botania:manaCookie",
+			"desertmobs:ambercake",
+			"harvestcraft:applepieItem",
+			"harvestcraft:bakedbeansItem",
+			"harvestcraft:bakedhamItem",
+			"harvestcraft:caramelappleItem",
+			"harvestcraft:caramelItem",
+			"harvestcraft:cherrysodaItem",
+			"harvestcraft:chocolatestrawberryItem",
+			"harvestcraft:colasodaItem",
+			"harvestcraft:epicbaconItem",
+			"harvestcraft:glazedcarrotsItem",
+			"harvestcraft:grapefruitsodaItem",
+			"harvestcraft:grapesodaItem",
+			"harvestcraft:lemonlimesodaItem",
+			"harvestcraft:marinatedcucumbersItem",
+			"harvestcraft:orangesodaItem",
+			"harvestcraft:pamcarrotCake",
+			"harvestcraft:pamcheeseCake",
+			"harvestcraft:pamcherrycheeseCake",
+			"harvestcraft:pamchocolatesprinkleCake",
+			"harvestcraft:pamholidayCake",
+			"harvestcraft:pamlamingtonCake",
+			"harvestcraft:pampavlovaCake",
+			"harvestcraft:pampineappleupsidedownCake",
+			"harvestcraft:pampumpkincheeseCake",
+			"harvestcraft:pamredvelvetCake",
+			"harvestcraft:pbandjItem",
+			"harvestcraft:peanutbuttercookiesItem",
+			"harvestcraft:pumpkinbreadItem",
+			"harvestcraft:rainbowcurryItem",
+			"harvestcraft:raisincookiesItem",
+			"harvestcraft:strawberrypieItem",
+			"harvestcraft:strawberrysodaItem",
+			"harvestcraft:taffyItem",
+			"harvestcraft:trailmixItem",
+			"minecraft:cake",
+			"minecraft:cookie",
+			"minecraft:pumpkin_pie"
+		]
+	},
+	"name": "Sugar",
+	"color": "gray"
+}

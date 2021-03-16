@@ -1,0 +1,25 @@
+{
+	"food": {
+		"oredict": [
+			"foodAmbrosia",
+		],
+		"items": [
+			"Botania:manaCookie",
+			"EnderIO:itemEnderFood",
+			"etfuturum:chorus_fruit",
+			"harvestcraft:epicbaconItem",
+			"harvestcraft:rainbowcurryItem",
+			"infernomobs:searingtaco",
+			"lycanitesmobs:battleburrito",
+			"lycanitesmobs:explorersrisotto",
+			"minecraft:golden_apple:1",
+			"mountainmobs:peakskebab",
+			"saltwatermobs:seashellmaki",
+			"shadowmobs:bloodchili",
+			"swampmobs:mosspie",
+			"Thaumcraft:ItemZombieBrain"
+		]
+	},
+	"name": "Magical",
+	"color": "light_purple"
+}
